@@ -3,7 +3,7 @@
 #Example 1
 #Note ( '\n' = stands for Newline)
 
-print("Welcome to PRINCE CADA Bank ATM\n")
+print("Welcome to PRINCE Bank ATM\n")
 restart = 'y'
 balance = 100.00
 chances = 3
