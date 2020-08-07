@@ -1,3 +1,3 @@
 # python-beginners
 
-This is will help some beginners in python. I have example of some basic fundamentals in python.
+You are welcome here! I hope it will help you with all my simple python works. 
