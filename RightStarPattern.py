@@ -9,3 +9,17 @@ def pattern(n):
             print("* ", end="")
         print("\r")
 pattern(5)
+
+
+#Output
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
